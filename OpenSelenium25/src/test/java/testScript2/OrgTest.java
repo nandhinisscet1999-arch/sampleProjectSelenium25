@@ -14,5 +14,11 @@ public class OrgTest {
 	{
 		System.out.println("modify contact test");
 	}
+	@Test
+	public void DeleteContactTest()
+	{
+		System.out.println("Delete contact test");
+	}
+
 
 }
